@@ -1,0 +1,30 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    font-family: sans-serif;
+    color:rgb(116, 226, 226);
+}
+ul{
+    font-size: 50px;
+    text-align: center;
+    font-family: sans-serif;
+}
+ul li{
+    color:rgb(120, 120, 190)
+
+}
+p{
+    font-size: 30px;
+}
+img{
+    height:auto
+    width:50px;
+}
+.heading{
+    color: aquamarine;
+}
+.biryani{
+    height:auto;
+    width: 200px;
+    
+}
